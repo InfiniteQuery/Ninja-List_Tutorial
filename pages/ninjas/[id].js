@@ -33,7 +33,7 @@ const Details = ({ ninja }) => {
             <p>{ ninja.website }</p>
             <p>{ ninja.address.city }</p>
         </div>
-      );
+      ); 
 }
  
 export default Details;
